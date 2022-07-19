@@ -1,0 +1,129 @@
+p.a
+
+{
+    margin-left: 55%;
+    margin-right: 3%;
+    font-family: 'Slabo 27px', serif;
+    text-align: right;
+    border-left: 50%;
+    border-right: 50%;
+
+}
+h1{
+    margin-right: 15%;
+    text-align: right;
+    font-family: 'Slabo 27px', serif;
+
+}
+h2
+{
+    margin-right: 7%;
+    text-align: right;
+    font-family: 'Slabo 27px', serif;
+}
+h3
+{
+    margin-right: 14%;
+    text-align: right;
+    font-family: 'Slabo 27px', serif;
+}
+h4
+{
+    margin-right: 14%;
+    text-align: right;
+    font-family: 'Slabo 27px', serif;
+}
+h5
+{
+    margin-right: 14%;
+    margin-right: 15%;
+    text-align: right;
+    font-family: 'Slabo 27px', serif;
+}
+table,
+th,
+td {
+    
+
+    margin-left: 57%;
+    padding: 5px;
+    float: center;
+    font-family: 'Slabo 27px', serif;
+    border: 5px solid rgb(214, 239, 237);
+    text-align: right;
+    border-style: ridge;
+
+}
+
+ul.a {
+    
+    margin-left: 57%;
+    margin-right: 3%;
+    text-align: right;
+    font-family: 'Slabo 27px', serif;
+    border-left: 10px solid rgb(214, 239, 237);
+    list-style-type: none;
+    box-sizing: border-box;
+
+}
+
+dl.b {
+    margin-right: 10%;
+    margin-left: 70%;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    border-left: 10px solid rgb(214, 239, 237);
+    list-style-type: none;
+}
+
+ul {
+    
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    < !--background-color: rgb(234, 246, 246);
+    -->opacity: 0.8;
+    -->
+}
+
+li {
+    float: right;
+}
+
+li a {
+   
+    display: block;
+    color: #666;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li a:hover:not(active) {
+    background-color: rgb(178, 200, 223);
+}
+
+li a.active {
+    color: rgb(196, 215, 224);
+    background-color: rgb(137, 138, 166);
+}
+
+div{
+    width: 320px;
+    padding: 50px;
+    border: 10px;
+    margin: ;
+}
+
+p.c
+{
+    margin-left: 65%;
+    margin-right: 10%;
+    font-family: 'Slabo 27px', serif;
+    text-align:center;
+    border-left: 50%;
+    border-right: 50%;
+
+}

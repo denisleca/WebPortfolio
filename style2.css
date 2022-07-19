@@ -1,0 +1,52 @@
+body{
+    font-family: 'Slabo 27px', serif;
+    margin:0;
+    padding: 0;
+}
+
+
+p.1
+{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(214, 239, 237);
+}
+
+div{
+
+    float: center;
+    width:500px;
+    height: 380px;
+    padding:50px;
+    margin-left: 340px;
+    text-align: center;
+    background-color:whitesmoke;
+    border-radius: 30%;
+  
+
+}
+h1{
+    font-family: 'Cormorant Garamond', serif;
+}
+p.s
+{
+    font-family: 'Caveat', cursive;
+    font-size: 130%;
+  
+}
+
+p.k
+{
+    font-family: 'Cormorant Garamond', serif;
+    font-size:120% ;
+}
+
+.social-icon
+{
+    font-size: 60px;
+    text-decoration: none;
+}
+
+.social-icon: :hover
+{
+    color:black;
+}
